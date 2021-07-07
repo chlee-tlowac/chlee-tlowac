@@ -78,6 +78,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac)](https://github.com/chlee-tlowac/)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tlowac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Side projects</h3>
 
