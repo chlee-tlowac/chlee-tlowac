@@ -95,6 +95,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chlee-tlowac&repo=chlee-tlowac" />
 </a>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ------------
 
 <p align="center">Click Here To See My Resume</p>
