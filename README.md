@@ -13,6 +13,7 @@
 
 <h3>Things I code with</h3>
 <p>
+
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -77,8 +78,9 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac)](https://github.com/chlee-tlowac/)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tlowac&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![ChangHun Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac)](https://github.com/chlee-tlowac)
+[![ChangHun Lee wakatime stats](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
+
 
 <h3>Side projects</h3>
 
