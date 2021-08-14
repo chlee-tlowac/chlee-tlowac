@@ -78,8 +78,8 @@
   </a>
 </p>
 
-[![ChangHun Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac)](https://github.com/chlee-tlowac)
-[![ChangHun Lee wakatime stats](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&hide_border=true&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
+[![ChangHun Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
+[![ChangHun Lee wakatime stats](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
 
 
 <h3>Side projects</h3>
