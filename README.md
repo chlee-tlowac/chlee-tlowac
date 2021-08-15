@@ -1,17 +1,23 @@
+# <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="45"/> Hey! Nice to see you.
+
 ![waving](https://capsule-render.vercel.app/api?type=soft&height=200&text=🎸&&color=gradient)
 
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="45"/> Hey! Nice to see you.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/chlee-tlowac/count.svg" />
+</p>
 
+## About me
 
 <p>
-  Welcome to my page! </br>
   I'm Changhun, junior fullstack developer from 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> 
   <b>Seoul, Korea</b>, currently work as a S/W Dev Team at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. 
 </p>
 
-<h3>Things I code with</h3>
+## Things I code with
+
 <div>
 
   <div> <!-- -->
@@ -90,23 +96,13 @@
   </a>
 </div>
 
-<div>
-
-<span>
+## Stat
 
 [![ChangHun Lee GitHub stats](https://github-readme-stats.vercel.app/api?username=chlee-tlowac&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
 
-</span>
-
-</span>
-
 [![ChangHun Lee wakatime stats](https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa)](https://github.com/chlee-tlowac)
 
-</span>
-
-</div>
-
-<h3>Side projects</h3>
+## Side projects
 
 <div>
   <div style="margin-bottom:5px">
