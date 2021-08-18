@@ -12,7 +12,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/chlee-tlowac/count.svg" />
+  <img src="https://profile-counter.glitch.me/tlowac/count.svg" />
 </p>
 
 ## About me
@@ -97,7 +97,7 @@
 
 ## ⚡ Github Stat
 
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=chlee-tlowac&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline; margin:0;"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=tlowac&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline; margin:0;"/>
 <img height="130em" src="https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline;margin:0;"/>
 
 
@@ -106,26 +106,26 @@
 <div>
   <div style="margin-bottom:5px">
     <span>
-      <a href="https://github.com/chlee-tlowac/chlee-tlowac">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chlee-tlowac&repo=chlee-tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
+      <a href="https://github.com/tlowac/tlowac">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlowac&repo=tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
       </a>
     </span>
     <span>
-      <a href="https://github.com/chlee-tlowac/chlee-tlowac">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chlee-tlowac&repo=chlee-tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
+      <a href="https://github.com/tlowac/tlowac">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlowac&repo=tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
       </a>
     </span>
   </div>
 
   <div>
     <span>
-      <a href="https://github.com/chlee-tlowac/chlee-tlowac">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chlee-tlowac&repo=chlee-tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
+      <a href="https://github.com/tlowac/tlowac">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlowac&repo=tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
       </a>
     </span>
     <span>
-      <a href="https://github.com/chlee-tlowac/chlee-tlowac">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chlee-tlowac&repo=chlee-tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
+      <a href="https://github.com/tlowac/tlowac">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tlowac&repo=tlowac&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" />
       </a>
     </span>
   </div>
@@ -139,7 +139,7 @@
 <h3>🔍 Where to find me</h3>
 <p>
 <a href="https://helicopter55.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
-<a href="https://github.com/chlee-tlowac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://github.com/tlowac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <!-- <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>
 
