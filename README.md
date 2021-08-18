@@ -136,10 +136,19 @@
 
 ![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png)
 
+<h3>🔍 Where to find me</h3>
+<p>
+<a href="https://blog.aoaoao.me" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
+<a href="https://github.com/chlee-tlowac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png)
+
 <p align="center">Click Here To See My Resume</p>
 
 
-<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+<!-- <a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
 </a>
 <a href="mailto:i@blackcater.dev">
@@ -147,4 +156,6 @@
 </a>
 <a href="https://leetcode-cn.com/u/blackcater/">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
-</a>
+</a> -->
+
+
