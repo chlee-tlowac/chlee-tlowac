@@ -1,4 +1,11 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="45"/> Hey! Nice to see you.
+
+
+
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="45"/> 
+  Hey! Nice to see you.
+</h1>
+
 
 ![waving](https://capsule-render.vercel.app/api?type=soft&height=200&text=🎸&&color=gradient)
 
@@ -130,3 +137,14 @@
 ![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png)
 
 <p align="center">Click Here To See My Resume</p>
+
+
+<a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-blog.svg" height="40" />
+</a>
+<a href="mailto:i@blackcater.dev">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-gmail.svg" height="40" />
+</a>
+<a href="https://leetcode-cn.com/u/blackcater/">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/social-leetcode.svg" height="40" />
+</a>
