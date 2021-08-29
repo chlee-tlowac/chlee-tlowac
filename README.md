@@ -15,7 +15,7 @@
   <img src="https://profile-counter.glitch.me/tlowac/count.svg" />
 </p>
 
-## About me
+## 🙋🏻‍♂️ About me
 
 <p>
   I'm Changhun, junior fullstack developer from 
@@ -101,7 +101,7 @@
 <img height="130em" src="https://github-readme-stats-nzp4ivrq9-florianbussmann.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline;margin:0;"/>
 
 
-## Side projects
+## 🖥️ Side projects
 
 <div>
   <div style="margin-bottom:5px">
