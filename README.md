@@ -15,7 +15,7 @@
   <img src="https://profile-counter.glitch.me/tlowac/count.svg" />
 </p>
 
-## About me
+## 🙋🏻‍♂️ About me
 
 <p>
   I'm Changhun, junior fullstack developer from 
@@ -104,7 +104,7 @@
 
 
 
-## Side projects
+## 🖥️ Side projects
 
 <div>
   <div style="margin-bottom:5px">
