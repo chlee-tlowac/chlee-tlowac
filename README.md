@@ -23,6 +23,27 @@
   <b>Seoul, Korea</b>, currently work as a S/W Dev Team at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. 
 </p>
 
+## 🛠 Tech Stack
+
+![Bash](https://img.icons8.com/plasticine/30/bash.png)
+![Console](https://img.icons8.com/color/30/console.png)
+![Docker](https://img.icons8.com/color/30/docker.png)
+![Html](https://img.icons8.com/color/30/html-5.png)
+![Css](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Linux](https://img.icons8.com/color/30/linux.png)
+![Mac](https://img.icons8.com/color/30/mac-client.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![NodeJS](https://img.icons8.com/color/30/nodejs.png)
+![Typescript](https://img.icons8.com/color/30/typescript.png)
+![ReactJS](https://img.icons8.com/ios-glyphs/30/000000/react.png)
+![Apollo](https://img.icons8.com/color/30/apollo.png)
+![Graphql](https://img.icons8.com/color/30/graphql.png)
+![NPM](https://img.icons8.com/color/30/npm.png)
+![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
+
+
+
 ## Things I code with
 
 
