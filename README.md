@@ -23,6 +23,8 @@
   <b>Seoul, Korea</b>, currently work as a S/W Dev Team at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. 
 </p>
 
+<br/>
+
 ## 🛠 Tech Stack
 
 ![Bash](https://img.icons8.com/plasticine/30/bash.png)
@@ -31,24 +33,19 @@
 ![Html](https://img.icons8.com/color/30/html-5.png)
 ![Css](https://img.icons8.com/color/30/css3.png)
 ![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![Linux](https://img.icons8.com/color/30/linux.png)
 ![Mac](https://img.icons8.com/color/30/mac-client.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![NodeJS](https://img.icons8.com/color/30/nodejs.png)
-![Typescript](https://img.icons8.com/color/30/typescript.png)
 ![ReactJS](https://img.icons8.com/ios-glyphs/30/000000/react.png)
 ![Apollo](https://img.icons8.com/color/30/apollo.png)
 ![Graphql](https://img.icons8.com/color/30/graphql.png)
 ![NPM](https://img.icons8.com/color/30/npm.png)
 ![Ubuntu](https://img.icons8.com/color/30/ubuntu--v1.png)
 
-
-
-## Things I code with
-
-
 <details>
- <summary><code>Tech Stack</code></summary>
+ <summary><code>More Detail</code></summary>
 
   <h3>Programming</h3>
 
@@ -115,6 +112,7 @@
   </a>
 </details>
 
+<br/>
 
 ## ⚡ Github Stat
 
@@ -123,7 +121,7 @@
   <img align=top height="155em" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline;margin:0;"/>
 </div>
 
-
+<br/>
 
 ## 🖥️ Side projects
 
@@ -157,6 +155,8 @@
 <!-- ## Blog posts -->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
 
 ![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png)
 
