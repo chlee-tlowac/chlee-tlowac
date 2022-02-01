@@ -93,23 +93,6 @@
   <!-- <img alt="TensorFlow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> -->
   <!-- <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> -->
   <!-- <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" /> -->
-
-  <h3>Design</h3>
-  <img alt="Photoshop" src="https://img.shields.io/badge/photoshop-%2331a8ff.svg?logo=adobe-photoshop&logoColor=white&style=for-the-badge" alt="Photoshop" />
-  <img alt="illustrator" src="https://img.shields.io/badge/adobe%20illustrator-%23e68619.svg?logo=adobe-illustrator&logoColor=white&style=for-the-badge" alt="Adobe Illustrator" />
-  <img alt="indesign" src="https://img.shields.io/badge/adobe%20indesign-%23ec5b62.svg?logo=adobe-indesign&logoColor=white&style=for-the-badge" alt="Adobe InDesign" />
-  <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd-%23470137.svg?logo=adobe-xd&logoColor=white&style=for-the-badge" alt="Adobe XD" />
-  <img alt="figma" src="https://img.shields.io/badge/figma-%23f24e1e.svg?logo=figma&logoColor=white&style=for-the-badge" alt="Figma" />
-
-  <h3>E.T.C.</h3>
-
-  <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  <a href="https://stackoverflow.com/users/14330837/chang-hun-lee">
-    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://www.codewars.com/users/tlowac" style="margin:0">
-    <img alt="Codewars" src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" />
-  </a>
 </details>
 
 <br/>
