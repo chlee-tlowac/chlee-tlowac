@@ -20,7 +20,7 @@
 <p>
   I'm Changhun, junior fullstack developer from 
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" width="13"/> 
-  <b>Seoul, Korea</b>, currently work as a S/W Dev Team at <img src="https://avatars.githubusercontent.com/u/60495464?s=200&v=4" width="13"/> <a href="https://danbicorp.com" target="_blank"><b>DanbiKorea</b></a>. 
+  <b>Seoul, Korea</b>
 </p>
 
 <br/>
