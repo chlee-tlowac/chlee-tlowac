@@ -30,7 +30,6 @@
 ## 🛠 Tech Stack
 
 ![Bash](https://img.icons8.com/plasticine/30/bash.png)
-<!-- ![Console](https://img.icons8.com/color/30/console.png) -->
 ![Docker](https://img.icons8.com/color/30/docker.png)
 ![Html](https://img.icons8.com/color/30/html-5.png)
 ![Css](https://img.icons8.com/color/30/css3.png)
