@@ -1,7 +1,8 @@
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 
 
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1600706728/10521/meow_code.gif?1600706728" width="45"/> 
   Hey! Nice to see you.
 </h1>
@@ -101,7 +102,7 @@
 <!-- <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </p>
 
-![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png)
+![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png) -->
 
 <p align="center">Click Here To See My Resume</p>
 
