@@ -1,4 +1,4 @@
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 
 
@@ -99,12 +99,12 @@
 <p>
 <a href="https://helicopter55.tistory.com/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-%23FF4088.svg?&style=for-the-badge&logo=hugo&logoColor=white" /></a>
 <a href="https://github.com/tlowac" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<!-- <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<!-- <a href="https://twitter.com/AaronLiu00" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> -
 </p>
 
 ![----------](https://raw.githubusercontent.com/pactumjs/pactum/master/assets/rainbow.png) -->
 
-<p align="center">Click Here To See My Resume</p>
+<!-- <p align="center">Click Here To See My Resume</p> -->
 
 
 <!-- <a href="https://www.blackcater.com" alt="blackcater's blog" target="_blank">
