@@ -32,12 +32,24 @@ jobs:
           config_display: large
           config_padding: 1, 8 + 10%
           config_timezone: Asia/Seoul
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
           plugin_activity_limit: 5
           plugin_activity_load: 298
           plugin_activity_visibility: all
+          
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.rss.svg
+          token: NOT_NEEDED
+          base: ""
           plugin_rss: yes
           plugin_rss_limit: 2
           plugin_rss_source: https://helicopter55.tistory.com/rss
