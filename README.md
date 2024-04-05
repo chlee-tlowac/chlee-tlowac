@@ -1,8 +1,10 @@
 
 <!-- daily.dev / #DevCard -->
 <p align="center">
-  <a href="https://app.daily.dev/tlowac"><img src="https://api.daily.dev/devcards/v2/PZ8dk4j90BdNQ8hnCV35u.png?type=default&r=hlt" width="356" alt="ChangHun Lee's Dev Card"/></a>
+  <a href="https://app.daily.dev/tlowac"><img src="./devcard.png" width="356" alt="ChangHun Lee's Dev Card"/></a>
 </p>
+
+
 <!-- metrics -->
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
