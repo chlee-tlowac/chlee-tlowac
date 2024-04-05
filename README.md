@@ -5,10 +5,31 @@
 </p>
 
 
+<!-- visitor count -->
+<p align="center"> 
+<!--   <img src="https://profile-counter.glitch.me/tlowac/count.svg" /> -->
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftlowac%2Fhit-counter&count_bg=%234AA306&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</p>
+
+<br/>
+
+
 <!-- metrics -->
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </p>
+
+
+
+<br/>
+
+## ⚡ Github Stat
+
+<div>
+  <img align=center height="155em" src="https://github-readme-stats.vercel.app/api?username=tlowac&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline; margin:0;"/>
+    <img align=center height="155em" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlowac&langs_count=8&layout=compact&bg_color=282a36&title_color=fdaaaa&text_color=fdaaaa&icon_color=fdaaaa" style="display:inline;margin:0;"/>
+</div>
+
 
 
 <!-- <h1 align="center">
