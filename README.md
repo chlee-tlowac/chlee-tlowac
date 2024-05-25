@@ -14,10 +14,10 @@
 <br/>
 
 <!-- BLOG-POST-LIST:START -->
+- [[IDE 99% 에러잡기] cursor ide - cursor . 명령어 &amp;quot;zsh: command not found: cursor&amp;quot;](https://helicopter55.tistory.com/87)
 - [[Github 99% 에러해결하기] Github Action 티스토리 블로그 RSS 406 Error - Not Acceptable 에러](https://helicopter55.tistory.com/85)
 - [[vscode 1% 이해하기] Jetbrains Mono 폰트 vscode 적용하기 &lpar;feat. Font Ligature&rpar;](https://helicopter55.tistory.com/84)
 - [[사이드프로젝트] 프로필 링크 랜딩 페이지 제작하기](https://helicopter55.tistory.com/83)
-- [[AWS 트러블 슈팅] RDS CPU 점유율 99% 스파이크 현상 트러블 슈팅](https://helicopter55.tistory.com/82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- metrics -->
