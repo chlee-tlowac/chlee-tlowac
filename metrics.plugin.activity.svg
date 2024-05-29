@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="441" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="521" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,90 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 7 commits in
+                                        <span class="repo">TLOWAC-REPO/tlowac-boilerplate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#25f1964</div>
+                                        <div class="message">chore: 프로젝트 폴더 이름 변경</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5773bc1</div>
+                                        <div class="message">feat: nestjs-drizzle-api 초기 셋팅</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0094965</div>
+                                        <div class="message">feat(prisma): Table[User] -&gt; provider 인증 방식 구분용 필드 추가</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#22c6c25</div>
+                                        <div class="message">feat(env): oauth -&gt; google 환경 변수 추가</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#24a2613</div>
+                                        <div class="message">feat(auth): google auth guard &amp; strategy 추가</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#46342ce</div>
+                                        <div class="message">feat(env): oauth -&gt; github 환경 변수 추가</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b2205f9</div>
+                                        <div class="message">feat(auth): github auth guard 추가</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TLOWAC/tlowac-boilerplate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#25f1964</div>
+                                        <div class="message">chore: 프로젝트 폴더 이름 변경</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">TLOWAC/tlowac-boilerplate</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#5773bc1</div>
+                                        <div class="message">feat: nestjs-drizzle-api 초기 셋팅</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -56,74 +140,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">WiseLibs/better-sqlite3</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">TLOWAC/nestjs-playground</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f0f24b9</div>
-                                        <div class="message">chore: pnpm-lock.json 추가</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6b2d1eb</div>
-                                        <div class="message">chore: drizzle-orm 의존성 추가</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8c5c014</div>
-                                        <div class="message">feat: gitignore 추가</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TLOWAC/tlowac-boilerplate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0094965</div>
-                                        <div class="message">feat(prisma): Table[User] -&gt; provider 인증 방식 구분용 필드 추가</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">TLOWAC/tlowac-boilerplate</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#22c6c25</div>
-                                        <div class="message">feat(env): oauth -&gt; google 환경 변수 추가</div>
                                     </div>
                                 </div>
                             </section>
